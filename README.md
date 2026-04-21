@@ -25,7 +25,8 @@ Create `~/.config/knockknock/config.json` before running:
 ```json
 {
   "recipient": "+YYXXXXXXXXX",
-  "cooldownSeconds": 5
+  "cooldownSeconds": 5,
+  "message" : "unused",
 }
 ```
 
